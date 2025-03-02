@@ -1,2 +1,8 @@
 # vl6180x-esp32c3
 Entfernungssensor vl6180x an einem ESP32-C3 Mini in Python mit library
+
+pinbelegung
+vin - 3v
+grd - ground
+sda - gpio 6
+sdl - gpio 7
